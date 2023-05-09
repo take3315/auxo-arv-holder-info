@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@apollo/client": "^3.7.14",
     "dotenv": "^16.0.3",
     "node-fetch": "^3.3.1",
     "web3": "^1.9.0"
